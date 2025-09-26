@@ -1,0 +1,6 @@
+
+cuadrado -150 100 99 red
+triangulo -150 -100 100 blue
+circulo 150 100 60 black
+linea 200 -100 -100 green
+teleport 0 0
