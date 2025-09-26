@@ -84,7 +84,7 @@ def lineadibujo(x, y, longitud, color):
     linea.forward(longitud)
     linea.hideturtle()
 
-# Función para ejecutar una instrucción
+#Función para ejecutar una instrucción
 def ejecutar_instruccion(linea):
     partes = linea.strip().split()
     if len(partes) == 0:
